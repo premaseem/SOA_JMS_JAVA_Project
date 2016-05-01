@@ -1,0 +1,9 @@
+2016-05-01 17:49:29,279 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples.service.service:Consumer:0.0.1-SNAPSHOT @ /Users/asee2278/gitRepo/petProjects/SOA_JMS_JAVA_Project/Consumer/pom.xml.
+2016-05-01 17:49:30,142 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-01 17:49:30,147 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-01 17:49:30,157 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-01 17:49:30,157 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/asee2278/gitRepo/petProjects/SOA_JMS_JAVA_Project/Consumer/src/test/resources
+2016-05-01 17:49:33,968 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-01 17:49:33,975 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-01 17:49:33,978 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-01 17:49:33,978 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/asee2278/gitRepo/petProjects/SOA_JMS_JAVA_Project/Consumer/src/test/resources
